@@ -1,0 +1,4 @@
+matplotlib==3.10.1
+pandas==2.2.3
+pywebio==1.8.4
+seaborn==0.13.2
